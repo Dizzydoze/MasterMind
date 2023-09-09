@@ -1,6 +1,8 @@
 # MasterMind
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f5280009-9d15-4886-819d-42a6ba324961/0424aa3e-ebf9-4ccc-b991-430c637f1cbd/Untitled.jpeg)
+<p align="center">
+    <img src="https://github.com/Dizzydoze/MasterMind/assets/106438058/f8ee06c8-7ee5-4161-a3c4-a6a37e4be6e6">
+</p>
 
 - **Description**: A game of guessing multiple hidden colors. Players get multiple chances to guess 4 colors at a time for reviewing the secret hidden colors. There are two types of matches. **Exact**: Correct color with correct position. **Partial**: Correct color with wrong position. Mind that duplication exists. System will provide counts of exact matches and counts of partial matches as feedback.
 - **Development process**:
